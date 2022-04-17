@@ -84,7 +84,7 @@ class Calculator {
       }
     }
   }
-  
+  //random changes test for git: Comment
   
   const numberButtons = document.querySelectorAll('[data-number]')
   const operationButtons = document.querySelectorAll('[data-operation]')
